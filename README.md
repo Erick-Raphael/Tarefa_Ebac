@@ -1,7 +1,7 @@
 # Tarefa_Ebac
 Tarefa pratica da ebac
 
-## Após instalar os arquivos apenas use esses comandos para executar o arquivo:
+## Após instalar os arquivos apenas use esse comando para executar o arquivo:
 
 ./script_calculadora.sh
 
