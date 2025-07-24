@@ -1,11 +1,6 @@
 # Tarefa_Ebac
 Tarefa pratica da ebac
 
-## Após instalar os arquivos apenas use esse comando para executar o arquivo:
+## Sobre a calculadora:
 
-./script_calculadora.sh
-
-### Em caso de erro, use:
-./python_update.sh
-
-e agora so usar o primeiro codigo novamente.
+  A calculadora foi feita pelo python e com interface gráfica do tkinter. E também ela so funcina pelo mouse e ir clicando nas opções.
